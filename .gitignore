@@ -1,5 +1,6 @@
 spark-cluster/apache-spark.tgz
 web_venv/
+.DS_Store
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
